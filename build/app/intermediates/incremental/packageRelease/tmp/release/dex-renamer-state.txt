@@ -1,0 +1,4 @@
+#Sun Jan 29 23:11:11 IST 2023
+base.0=/Users/nikhilsingh/Desktop/personal/wordpair_app/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
